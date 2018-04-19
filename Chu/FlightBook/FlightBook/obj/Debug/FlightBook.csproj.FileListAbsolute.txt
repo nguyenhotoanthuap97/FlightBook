@@ -1,0 +1,10 @@
+D:\Study\Y3_HKII\PTTK\Do_an\FlightBook\Chu\FlightBook\FlightBook\bin\Debug\FlightBook.exe.config
+D:\Study\Y3_HKII\PTTK\Do_an\FlightBook\Chu\FlightBook\FlightBook\bin\Debug\FlightBook.exe
+D:\Study\Y3_HKII\PTTK\Do_an\FlightBook\Chu\FlightBook\FlightBook\bin\Debug\FlightBook.pdb
+D:\Study\Y3_HKII\PTTK\Do_an\FlightBook\Chu\FlightBook\FlightBook\obj\Debug\FlightBook.csprojResolveAssemblyReference.cache
+D:\Study\Y3_HKII\PTTK\Do_an\FlightBook\Chu\FlightBook\FlightBook\obj\Debug\FlightBook.Form1.resources
+D:\Study\Y3_HKII\PTTK\Do_an\FlightBook\Chu\FlightBook\FlightBook\obj\Debug\FlightBook.Properties.Resources.resources
+D:\Study\Y3_HKII\PTTK\Do_an\FlightBook\Chu\FlightBook\FlightBook\obj\Debug\FlightBook.csproj.GenerateResource.Cache
+D:\Study\Y3_HKII\PTTK\Do_an\FlightBook\Chu\FlightBook\FlightBook\obj\Debug\FlightBook.csproj.CoreCompileInputs.cache
+D:\Study\Y3_HKII\PTTK\Do_an\FlightBook\Chu\FlightBook\FlightBook\obj\Debug\FlightBook.exe
+D:\Study\Y3_HKII\PTTK\Do_an\FlightBook\Chu\FlightBook\FlightBook\obj\Debug\FlightBook.pdb
